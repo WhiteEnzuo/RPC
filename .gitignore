@@ -1,0 +1,5 @@
+# Project exclude paths
+/RPC_Agreement/target/
+/RPC_Client/target/
+/RPC_Server/target/
+/RPC_Service/target/
